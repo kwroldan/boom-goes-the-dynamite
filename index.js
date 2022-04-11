@@ -3,6 +3,6 @@ function boom(){
 }
 
 const button = document.querySelector("button");
-button.addEventListener("click", event => {1
+button.addEventListener("click", event => {
   boom()
 })
